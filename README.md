@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12amansharma&label=Profile%20views&color=0e75b6&style=flat" alt="12amansharma" /> </p>
 
-- 🔭 I’m currently working on [Everything @Indovators-xyz does](https://www.indovators.xyz)
 
-- 👨‍💻 All of my projects are available at [12amansharma](12amansharma)
-
-- 💬 Ask me about **Flutter, Firebase and AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
